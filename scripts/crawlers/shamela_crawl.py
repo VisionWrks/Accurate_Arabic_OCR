@@ -8,8 +8,8 @@ import time
 import re
 from typing import Optional
 
-BASE_URL = "https://shamela.ws/book/9472"
-START, END = 1, 1703
+BASE_URL = "https://shamela.ws/book/12055"
+START, END = 1, 10
 OUT_PREFIX = "shamela_9472"
 PARTS = 4
 DELAY = 0.8  # polite delay
